@@ -1,0 +1,8 @@
+com\mynotes\mynotes\note\NoteService.class
+com\mynotes\mynotes\greeting\Greeting.class
+com\mynotes\mynotes\Application.class
+com\mynotes\mynotes\greeting\GreetingController.class
+com\mynotes\mynotes\note\NoteController.class
+com\mynotes\mynotes\note\NoteRepository.class
+com\mynotes\mynotes\hello\HelloController.class
+com\mynotes\mynotes\note\Note.class
