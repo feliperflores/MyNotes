@@ -1,8 +1,3 @@
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\Application.java
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\hello\HelloController.java
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\note\Note.java
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\greeting\Greeting.java
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\note\NoteRepository.java
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\note\NoteService.java
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\greeting\GreetingController.java
-D:\dev\projects\mynotes\src\main\java\com\mynotes\mynotes\note\NoteController.java
+D:\dev\projects\MyNotes\src\main\java\com\example\felipe\MyNotes\MyNotesApplication.java
+D:\dev\projects\MyNotes\src\main\java\com\example\felipe\MyNotes\Greeting\Greeting.java
+D:\dev\projects\MyNotes\src\main\java\com\example\felipe\MyNotes\Greeting\GreetingController.java
